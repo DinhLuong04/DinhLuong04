@@ -24,8 +24,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DinhLuong04&show_icons=true&theme=tokyonight&hide_border=true" height="180em"/>
-&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=DinhLuong04&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&include_all_commits=true" height="180em"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinhLuong04&layout=compact&theme=tokyonight&hide_border=true" height="180em"/>
 
 </div>
